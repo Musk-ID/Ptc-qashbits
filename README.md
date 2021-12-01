@@ -28,6 +28,6 @@ $ git clone https://github.com/Musk-ID/Ptc-qashbits
 $ cd Ptc-qashbits
 $ python bot.py
 ```
-- [X] Join web [here](https://beerfaucet.io/?ref=13048)
+- [X] Join web [here](https://bit.ly/3o1q5Rx)
 
 
